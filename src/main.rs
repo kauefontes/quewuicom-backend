@@ -12,29 +12,32 @@ const MARKDOWN_CONTENT: &str = r#"
 
 ## Summary
 
-Accomplished software engineer with over 9 years of experience specializing in frontend and backend development. Expert in React Native, Typescript, and Embedded Android, with a proven track record of leading cross-functional teams and driving agile practices. Demonstrated success in delivering high-quality software solutions and improving performance metrics. Ready to leverage my expertise and leadership skills to solve complex technical challenges.
+Accomplished software engineer with over 9 years of experience specializing in frontend and backend development. Expert in React, Next.js, Typescript, and Rust, with a proven track record of leading cross-functional teams and driving agile practices. Demonstrated success in delivering high-quality software solutions, improving performance metrics, and streamlining workflows with modern cloud and containerization technologies. Ready to leverage my expertise and leadership skills to solve complex technical challenges.
 
 ## Technical Skills
 
-- **Frontend:** React Native, React, Typescript, Javascript, HTML, CSS, Redux, Redux Toolkit, MobX, Hooks, Design Patterns.
-- **Backend:** Rust, .NET, NodeJS, RESTful API, SOAP, Docker, AWS, Google Cloud, Azure, Azure for US Gov.
-- **Tools:** Firebase, GitHub Actions, Jenkins, Storybook, Pipelines, Continuous Integration (CI), Continuous Deployment.
-- **Mobile and IoT:** Android, iOS, Kotlin, Java, BLE, Push Notifications.
+- **Frontend:** React Native, React, Next.js, Typescript, Javascript, HTML, CSS, Redux, Redux Toolkit, MobX, Hooks, Design Patterns.
+- **Backend:** Rust, .NET, NodeJS, NestJS, Prisma, TypeORM, RESTful API, SOAP, Docker, Kubernetes, AWS, Google Cloud, Azure.
+- **Tools:** Firebase, GitHub Actions, Jenkins, Storybook, Pipelines, Continuous Integration (CI), Continuous Deployment (CD).
+- **Mobile and IoT:** Android, iOS, Kotlin, Java, BLE, Push Notifications, ESP32, FFmpeg.
 - **Agile:** Kanban, Scrum, Agile Coaching, Team Building, Risk Management, Capacity Management, Team Metrics.
 
 ## Professional Experience
 
 ### Senior Software Engineer | BairesDev | Dec 2023 - Present
 
-- Led development efforts for the Lenslock client using React, Storybook, Typescript, .NET, Razor Pages, HTML, CSS, and Javascript.
-- Delivered highly interactive and reusable frontend components, dramatically reducing the feature delivering time.
-- Collaborated with cross-functional teams to ensure seamless frontend-backend integration, enhancing system performance.
+- Working for the **Hensall Coorp client**, developing both frontend and backend solutions:
+  - **Frontend**: React, Redux, Styled Components.
+  - **Backend**: NestJS, TypeORM, and Prisma for two services, with unit and integration testing using Jest.
+- Built and maintained CI/CD pipelines using GitHub Actions, automating testing, linting, and deployments.
+- Leveraged containerization for local development environments, including databases and auxiliary services.
+- For the **Lenslock client**, developed reusable frontend components with React, Storybook, and Typescript, reducing delivery cycles by 25%.
 
 ### Coordinator / Developer | MTST Technology Center | Aug 2021 - Present (Volunteer)
 
-- Coordinated hardware and software development for garden monitoring systems using soil and hydroponics techniques.
-- Led a team in delivering 4 end-to-end IoT solutions, improving efficiency in urban gardening projects.
-- Technologies used: React Native, Typescript, C++, ESP32, Redux, Styled Components, Github Pipelines.
+- Designed and implemented a **video and image processing service in Rust**, using FFmpeg to manipulate videos and audio codecs.
+- Delivered IoT solutions integrating ESP32 with React Native dashboards for real-time data monitoring in urban gardening projects.
+- Introduced CI/CD workflows using Docker and Kubernetes, streamlining deployments and improving efficiency.
 
 ### Agilist | AB InBev | Mar 2022 - Nov 2023
 
@@ -43,7 +46,7 @@ Accomplished software engineer with over 9 years of experience specializing in f
 
 ### Mobile Developer | ParaChegar | Jan 2023 - Sep 2023
 
-- Engineered React Native applications with intuitive UI/UX.
+- Developed intuitive and user-friendly React Native applications.
 - Integrated native modules for push notifications and location-based services, enhancing app functionality.
 
 ### Developer / Agilist | Eldorado Research Institute | Apr 2018 - Feb 2022
